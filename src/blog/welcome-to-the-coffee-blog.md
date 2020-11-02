@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Coffee Blog
+title: Welcome to Black Coffee Blog
 date: 2020-11-02T20:34:26.785Z
 ---
 ## Hello!

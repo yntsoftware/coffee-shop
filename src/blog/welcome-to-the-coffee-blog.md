@@ -1,6 +1,7 @@
 ---
 title: Welcome to Black Coffee Blog
 date: 2020-11-02T20:34:26.785Z
+contentKey: blog
 ---
 ![](/img/coffee-and-beans.jpg)
 

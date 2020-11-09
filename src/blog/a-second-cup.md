@@ -1,6 +1,7 @@
 ---
 title: A Second Cup
 date: 2020-11-03T03:28:18.438Z
+contentKey: blog
 ---
 So Good....
 
